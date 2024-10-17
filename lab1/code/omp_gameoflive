@@ -1,0 +1,48 @@
+ELF>7
+     @@H-@8     @@@@@@�88@8@@@\\ ��`�`�`�TT@T@  P�td��@�@ddQ�tdR�td��`�`/lib64/ld-linux-x86-64.so.2GNU
+
+
+        �������!�5 �yql�D��� libgomp.so.1omp_get_thread_numomp_get_num_threads__gmon_start__GOMP_parallellibpthread.so.0libc.so.6exitsprintffopenstrtolmemsetfputcfcloserandmallocstderrfwritegettimeofdayfprintf__libc_start_mainfreeGOMP_4.0OMP_1.0GLIBC_2.2.50�#&�@$&�bu␦i       ��`
+                                                   � ` `  `( `0 `8 `@ `H `P X `     ` `
+h `
+x `� `� `� `� `� `H�H�� H��t�CH���5r �%t @�%r h������%j h������%b h������%Z h�����%R h�����%J h�����%B h�����%: h�p����%2 �`����%* h        �P����%" h
+�@����%␦ h
+          �0����% h
+                   � ����%
+�����% h�����%� h������%� h������%� h������%2 f�AWAVAUATUSH��H���-H�I��
+1�L�l$ �A���I�|$1�H�ú
+���+�����I��H�$���I�����H��L��I����H�|$1�����E��~GD�4$L�l$ 1��1�1�L��@
+                                                                      @��L�|$ L�d$(�l$0����D9�L�d$ L�|$(�l$0u�L��1��A���H�D$ H+D$��f��L��f���H*�H�D$(H+D� @�"��a�������I���1�I��^H��H���PTI���@H���@H���A_�H�   @�����f.�D�� `UH-� `H��H��vH��t]�� `��f�]�fffff.��� `UH�� `H��H��H��H��?H�H��t�H��t
+                                                               ]�� `��]�fD�=� uUH���n���]�� ��@�`H�?u��H��t�UH����]�z���f.�ATUS�oH�������A���i����ƍE��A��9։�}��1҉�����9����P)��A�Hc�L�TL�
+                                 �I�����~{H�1�JNJ��H�J��+fDAD���t?�D��k�BH��D�]�A9�~3�D�D�A�AD�D�D��u��D��DI�M9��s���[]A\�@f.�AWAVLc�AUATJ�<�USL��H������E��I��~M��I��H��L�mH��N�$�f�L��H������H�E�L9�u�I���H�;1�L��H��?���I9�u�H�L��[]A\A]A^A_����ATI��US~&��H��H�lf.�H�;H�����H9�u�[L��]A\������AWAV��AUATA�gfffUS�Ӊ���H�A����A��A)�E��~Q��I��I����E1���fD�S����A�����Й��Hc�H�H��H��E9�I�
+                                                                           �I�T�����u�H�[]A\A]A^A_�Df.�AWAVI��AUAT�US�Չ�H�������H��I�ƾX@1������b@L���p�����H��I�ĉ�1��e@�*�����~V�k�H��M�,�H���1��@1�H�������H9�tI�L��<␦u�H������H9�u�I�M9�u�L���H���H�L��[]A\A]A^A_�"���f�AWA��AVI��AUI��ATL�%X UH�-X SL)�1�H��H�����H��t�L��L��D��A��H��H9�u�H�[]A\A]A^A_�ff.���f�H�H��Usage: ./exec ArraySize TimeSteps
+GameOfLife: Size %d Steps %d Time %lf
+out%d.pgmwbP5
+%d %d 1
+����ư>d
+       ����@����P������������������ P���h�����0���0���xp����zRx
+
+
+                                                              /���*zRx
+@8#T@T 1x@x7
+            @?@�G���o@*T���o8@8c�@�mB�@�w@␦r@0}�        @�    ��        @� $��@�    �@��@�d��@����� `�� `�� `��0� -� �/     �(lL,�parlab13@scirouter:~/lab1$
+ �?␦;*3$"D`��,\�����B�A�A ��AD������B�B�E �B(�I0�A8�G@^8D0A(B BB,�����=D�D�A �iDD�����D�B�E �B(�G0�A8�K@f8A0A(B BBLLh���gB�B�B �B(�A0�A8�D�+
+8A0A(B BBA
+          D������B�B�E �B(�F0�A8�H@�8D0A(B BBD�����eB�E�E �E(�H0�H8�M@l8A0A(B BB,����
+         @�
+           @Rb
+�@�␦�x@@@     @
+�
+  `��@�0        ���o8@���o���o`@@@@@@   @       @&      @6      @F      @V @f       @v      @�      @�      @�      @�      @GCC: (GNU) 4.9.1GCC: (Debian 4.8.4-1) 4.8.48@T@x@@@@8�@    �@
+@
+ @
+� �     @�@@�@�@�`�``�` `� `� `␦��
+p                                 `
+ @
+�.
+ @D� `S�`z
+@��`����
+ @����X@�`����``��`
+7@e��� `'` o�� `�@��@ `5
+�@�� `� @g���"� `.�
+@FX� crtstuff.c__JCR_LIST__deregister_tm_clones__do_global_dtors_auxcompleted.6555__do_global_dtors_aux_fini_array_entryframe_dummy__frame_dummy_init_array_entryomp_gameoflive.cmain._omp_fn.0__FRAME_END____JCR_END____init_array_end_DYNAMIC__init_array_start__GNU_EH_FRAME_HDR_GLOBAL_OFFSET_TABLE___libc_csu_finifree@@GLIBC_2.2.5allocate_array_edatafclose@@GLIBC_2.2.5init_randomomp_get_thread_num@@OMP_1.0gettimeofday@@GLIBC_2.2.5print_to_pgmmemset@@GLIBC_2.2.5free_arrayfputc@@GLIBC_2.2.5__libc_start_main@@GLIBC_2.2.5__data_startomp_get_num_threads@@OMP_1.0fprintf@@GLIBC_2.2.5__gmon_start__strtol@@GLIBC_2.2.5__dso_handle_IO_stdin_used__libc_csu_initmalloc@@GLIBC_2.2.5__bss_startmainfopen@@GLIBC_2.2.5sprintf@@GLIBC_2.2.5exit@@GLIBC_2.2.5fwrite@@GLIBC_2.2.5__TMC_END__GOMP_parallel@@GOMP_4.0rand@@GLIBC_2.2.5stderr@@GLIBC_2.2.5.symtab.strtab.shstrtab.interp.note.ABI-tag.hash.dynsym.dynstr.gnu.version.gnu.version_r.rela.dyn.rela.plt.init.plt.got.text.fini.rodata.eh_frame_hdr.eh_frame.init_array.fini_array.jcr.dynamic.got.plt.data.bss.comment
