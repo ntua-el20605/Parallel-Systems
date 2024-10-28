@@ -1,0 +1,38 @@
+sequential:	14.5289s
+1 thread:	17.4739s
+2 thread:	13.3821s
+4 thread:	9.5700s
+8 thread:	7.0352s
+16 thread:	6.0323s
+32 thread:	5.6343s
+64 thread:	5.7646s
+
+affinity
+sequential:	14.5589s
+1 thread:	17.6989s
+2 thread:	10.0961s
+4 thread:	5.5312s
+8 thread:	3.1573s
+16 thread:	5.0557s
+32 thread:	7.9160s
+64 thread:	6.8970s
+
+reduction 256 16 32 10
+sequential:	14.5589s
+1 thread:	12.6385s
+2 thread:	6.3647s
+4 thread:	3.3174s
+8 thread:	1.8000s
+16 thread:	0.9449s
+32 thread:	0.4754s
+64 thread:	0.3971s
+
+reduction 256 1 4 10
+sequential:	4.9711s
+1 thread:	5.1531s
+2 thread:	2.5897s
+4 thread:	1.3590s
+8 thread:	0.7498s
+16 thread:	0.6017s
+32 thread:	0.4838s
+64 thread:	0.4782s
